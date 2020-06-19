@@ -153,4 +153,5 @@ bintray {
 
 
     }
+    override = true
 }
