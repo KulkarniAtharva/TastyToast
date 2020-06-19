@@ -17,9 +17,9 @@ public class TastyToast extends AppCompatActivity
     static int duration;
     static Toast toast;
     static POSITION object = new POSITION();
-    static int LENGTH_LONG = 1, LENGTH_SHORT = 0;
-    static int SHAPE_RECTANGLE = 1, SHAPE_ROUND = 0;
-    static boolean ANDROID_TRUE = true, ANDROID_FALSE = false;
+    public static int LENGTH_LONG = 1, LENGTH_SHORT = 0;
+    public static int SHAPE_RECTANGLE = 1, SHAPE_ROUND = 0;
+    public static boolean ANDROID_TRUE = true, ANDROID_FALSE = false;
 
     public static POSITION simple(Context context, String message, int dur, int shape, boolean value)
     {

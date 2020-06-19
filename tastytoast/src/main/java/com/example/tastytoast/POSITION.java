@@ -4,7 +4,7 @@ import android.view.Gravity;
 
 public class POSITION
 {
-    static String TOP="top", BOTTOM="bottom", CENTER="center", LEFT="left", RIGHT="right", TOP_LEFT="topleft", TOP_RIGHT="topright", BOTTOM_LEFT="bottomleft", BOTTOM_RIGHT="bottomright";
+    public static String TOP="top", BOTTOM="bottom", CENTER="center", LEFT="left", RIGHT="right", TOP_LEFT="topleft", TOP_RIGHT="topright", BOTTOM_LEFT="bottomleft", BOTTOM_RIGHT="bottomright";
 
     public void setPosition(String position)
     {

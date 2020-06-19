@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TastyToast.iml" filepath="$PROJECT_DIR$/TastyToast.iml" group="TastyToast" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="TastyToast/app" />
+      <module fileurl="file://$PROJECT_DIR$/tastytoast/tastytoast.iml" filepath="$PROJECT_DIR$/tastytoast/tastytoast.iml" group="TastyToast/tastytoast" />
+    </modules>
+  </component>
+</project>

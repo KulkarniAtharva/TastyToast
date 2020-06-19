@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TastyToast.info(this,"This is a Normal Toast w/o icon",TastyToast.LENGTH_SHORT,TastyToast.SHAPE_RECTANGLE,true).setPosition(POSITION.TOP_LEFT);
+        TastyToast.info(this,"This is a Normal Toast w/o icon",TastyToast.LENGTH_SHORT,TastyToast.SHAPE_RECTANGLE,TastyToast.ANDROID_FALSE).setPosition(POSITION.TOP_LEFT);
     }
 }
