@@ -39,8 +39,8 @@ All the programmatic way of implementation of TastyToast library is here.
   </tr>
   <tr>
     <td>Normal</td>
-    <td>`TastyToast.normal(this,"This is a Normal Toast w/o icon",TastyToast.LENGTH_LONG); <BR><BR> 
-         TastyToast.normal(this,"This is a Normal Toast w/o icon",R.drawable.android,TastyToast.LENGTH_LONG);`</td> 
+    <td>TastyToast.normal(this,"This is a Normal Toast w/o icon",TastyToast.LENGTH_LONG); <BR><BR> 
+         TastyToast.normal(this,"This is a Normal Toast with icon",R.drawable.android, TastyToast.LENGTH_LONG);</td> 
     <td><img src="images/Normal.jpg" width="150" alt="normal toast"/></td>
   </tr>    
   <tr>
@@ -65,8 +65,11 @@ All the programmatic way of implementation of TastyToast library is here.
   </tr>
   <tr>
     <td>Confusing</td>
-    <td>This flag sets design to menu item of Navigation drawer as <b>Rounded Rectangular Corners</b></td> 
-    <td><img src="Images/RoundRectFull.png"/></td>
+    <td>TastyToast.confusing(this,"This is Confusing Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,false);  <BR><BR>
+        TastyToast.confusing(this,"This is Confusing Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,false);  <BR><BR>
+        TastyToast.confusing(this,"This is Confusing Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,true);  <BR><BR>
+        TastyToast.confusing(this,"This is Confusing Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,true);</b></td> 
+    <td><img src="images/confusing.jpg" width="150"/></td>
   </tr>
   <tr>
     <td>Error</td>
