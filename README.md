@@ -156,11 +156,12 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 ## License
 
 
-`
 Project is published under the <a href = "http://www.apache.org/licenses/LICENSE-2.0.html">Apache-2.0</a> license. Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
 
 
-Copyright [yyyy] [name of copyright owner]
+```
+
+Copyright 2020 Atharva Kulkarni
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
