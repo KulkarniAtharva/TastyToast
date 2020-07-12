@@ -49,15 +49,15 @@ All the programmatic way of implementation of TastyToast library is here.
         TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,false); <BR>
         TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,true); <BR>
         TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,true);</td> 
-    <td><img src="images/simple.jpg"/></td>
+    <td><img src="images/simple.jpg" width="150"/></td>
   </tr>
   <tr>
     <td>Success</td>
     <td>TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,false); <BR>
         TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,false);  <BR>
-        TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,true); <BR>>
+        TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,true); <BR>
         TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,true);</td> 
-    <td><img src="images/success.jpg"/></td>
+    <td><img src="images/success.jpg" width="150"/></td>
   </tr>  
   <tr>
     <td>Info</td>
@@ -65,7 +65,7 @@ All the programmatic way of implementation of TastyToast library is here.
         TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,false); <BR>
         TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,true);  <BR>
         TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,true);</td> 
-    <td><img src="images/info.jpg"/></td>
+    <td><img src="images/info.jpg" width="150"/></td>
   </tr>
   <tr>
     <td>Warning</td>
@@ -73,7 +73,7 @@ All the programmatic way of implementation of TastyToast library is here.
         TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,false); <BR>
         TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,true);  <BR>
         TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,true);</td> 
-    <td><img src="images/warning.jpg"/></td>
+    <td><img src="images/warning.jpg" width="150"/></td>
   </tr>
   <tr>
     <td>Confusing</td>
@@ -89,7 +89,7 @@ All the programmatic way of implementation of TastyToast library is here.
         TastyToast.error(this,"This is an Error Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,false);  <BR><BR>
         TastyToast.error(this,"This is an Error Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,true);  <BR><BR>
         TastyToast.error(this,"This is an Error Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE,true);</td> 
-    <td><img src="images/error.jpg"/></td>
+    <td><img src="images/error.jpg" width="150"/></td>
   </tr>  
 </table>
 
