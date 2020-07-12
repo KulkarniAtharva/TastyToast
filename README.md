@@ -31,7 +31,7 @@ dependencies
 
 <B>All the programmatic way of implementation of TastyToast library is here.</B>
 
-General syntax of TastyToast :  ``TastyToast.success(context,"text",duration,shape,android icon);``  <BR><BR><BR>
+General syntax of TastyToast :  `TastyToast.success(context,"text",duration,shape,android icon); `  <BR><BR><BR>
     
     
     duration :  TastyToast.LENGTH_SHORT
@@ -110,9 +110,10 @@ General syntax of TastyToast :  ``TastyToast.success(context,"text",duration,sha
 
 Position of toast can also be set by using the function POSITION as follows :
 
-`TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,false).setPosition(POSITION.TOP);`
+``` TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG,TastyToast.SHAPE_ROUND,false).setPosition(POSITION.TOP); ```
 
-##### Different Positions ::
+##### Different Positions
+
                         - TOP
                         - BOTTOM
                         - CENTER
