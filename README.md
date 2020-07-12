@@ -112,17 +112,16 @@ Position of toast can also be set by using the function POSITION as follows :
 
 `TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,false).setPosition(POSITION.TOP);`
 
-Different Positions :: <ul>
-                        <li>TOP</li>
-                        <li>BOTTOM</li>
-                        <li>CENTER</li>
-                        <li>LEFT</li>
-                        <li>RIGHT</li>
-                        <li>TOP_LEFT</li>
-                        <li>TOP_RIGHT</li>
-                        <li>BOTTOM_LEFT</li>
-                        <li>BOTTOM_RIGHT</li>
-                      </ul>
+##### Different Positions ::
+                        - TOP
+                        - BOTTOM
+                        - CENTER
+                        - LEFT
+                        - RIGHT
+                        - TOP_LEFT
+                        - TOP_RIGHT
+                        - BOTTOM_LEFT
+                        - BOTTOM_RIGHT
 
 <a name="contributing"></a>
 ## Contributing
@@ -134,12 +133,11 @@ Any contributions, large or small, major features, bug fixes, are welcomed and a
 <a name="contact"></a>
 ### Contact - Lets become friend
 
-<ul>
-  <li><a href = "https://kulkarniatharva.github.io/">Portfolio Website </a></li>
-  <li><a href = "https://github.com/KulkarniAtharva">Github</a></li>
-  <li><a href = "https://www.linkedin.com/in/atharva-kulkarni-146279187/">LinkedIn</a></li>
-  <li><a href = "https://www.facebook.com/atharva.kulkarni.96343/">Facebook</a></li>
-</ul>
+- [Portfolio Website](https://kulkarniatharva.github.io/)
+- [Github](https://github.com/KulkarniAtharva)
+- [LinkedIn](https://www.linkedin.com/in/atharva-kulkarni-146279187/)
+- [Facebook](https://www.facebook.com/atharva.kulkarni.96343/)
+
 
 Don't forget to star ⭐ the repo it motivates me to share more open source
 
@@ -147,9 +145,6 @@ Don't forget to star ⭐ the repo it motivates me to share more open source
 <a name="donation"></a>
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) or dinner 🍕 🍔 will also do 😜
-
-
-
 
 
 <a name="license"></a>
