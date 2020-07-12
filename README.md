@@ -45,33 +45,33 @@ All the programmatic way of implementation of TastyToast library is here.
   </tr>    
   <tr>
     <td>Simple</td>
-    <td>TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, false); <BR>
-        TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, false); <BR>
-        TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, true); <BR>
+    <td>TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, false); <BR><BR>
+        TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, false); <BR><BR>
+        TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, true); <BR><BR>
         TastyToast.simple(this,"This is Simple Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, true);</td> 
     <td><img src="images/simple.jpg" width="150"/></td>
   </tr>
   <tr>
     <td>Success</td>
-    <td>TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, false); <BR>
-        TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, false);  <BR>
-        TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, true); <BR>
+    <td>TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, false); <BR><BR>
+        TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, false);  <BR><BR>
+        TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, true); <BR><BR>
         TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, true);</td> 
     <td><img src="images/success.jpg" width="150"/></td>
   </tr>  
   <tr>
     <td>Info</td>
-    <td>TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, false); <BR>
-        TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, false); <BR>
-        TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, true);  <BR>
+    <td>TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, false); <BR><BR>
+        TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, false); <BR><BR>
+        TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, true);  <BR><BR>
         TastyToast.info(this,"Here is some Info for you",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, true);</td> 
     <td><img src="images/info.jpg" width="150"/></td>
   </tr>
   <tr>
     <td>Warning</td>
-    <td>TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, false); <BR>
-        TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, false); <BR>
-        TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, true);  <BR>
+    <td>TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, false); <BR><BR>
+        TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, false); <BR><BR>
+        TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND, true);  <BR><BR>
         TastyToast.warning(this,"Beware of dog",TastyToast.LENGTH_LONG, TastyToast.SHAPE_RECTANGLE, true);</td> 
     <td><img src="images/warning.jpg" width="150"/></td>
   </tr>
@@ -93,6 +93,21 @@ All the programmatic way of implementation of TastyToast library is here.
   </tr>  
 </table>
 
+Position of toast can also be set by using the function POSITION as follows :
+
+`TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG, TastyToast.SHAPE_ROUND,false).setPosition(POSITION.TOP);`
+
+Different Positions :: <ul>
+                        <li>TOP</li>
+                        <li>BOTTOM</li>
+                        <li>CENTER</li>
+                        <li>LEFT</li>
+                        <li>RIGHT</li>
+                        <li>TOP_LEFT</li>
+                        <li>TOP_RIGHT</li>
+                        <li>BOTTOM_LEFT</li>
+                        <li>BOTTOM_RIGHT</li>
+                      </ul>
 
 <a name="contributing"></a>
 ## Contributing
