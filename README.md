@@ -33,14 +33,15 @@ All the programmatic way of implementation of TastyToast library is here.
 
 <table style="width:100%">
   <tr>
-    <th>Toast</th>
+    <th>Toast type</th>
     <th>Code</th> 
     <th>Preview</th>
   </tr>
   <tr>
     <td>Normal</td>
-    <td>This flag sets design to default style to menu item of Navigation drawer.</td> 
-    <td><img src="Images/DefaultStyle.png"/></td>
+    <td>`TastyToast.normal(this,"This is a Normal Toast w/o icon",TastyToast.LENGTH_LONG); <BR><BR> 
+         TastyToast.normal(this,"This is a Normal Toast w/o icon",R.drawable.android,TastyToast.LENGTH_LONG);`</td> 
+    <td><img src="images/Normal.jpg" width="150" alt="normal toast"/></td>
   </tr>    
   <tr>
     <td>Simple</td>
