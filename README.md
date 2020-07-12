@@ -29,7 +29,20 @@ dependencies
 
 ## Usage
 
-All the programmatic way of implementation of TastyToast library is here.
+<B>All the programmatic way of implementation of TastyToast library is here.</B>
+
+General syntax of TastyToast :  ``TastyToast.success(context,"text",duration,shape,android icon);``  <BR><BR><BR>
+    
+    
+    duration :  TastyToast.LENGTH_SHORT
+                TastyToast.LENGTH_LONG
+                
+    shape :  TastyToast.SHAPE_ROUND     
+             TastyToast.SHAPE_RECTANGLE 
+             
+    android icon : true
+                   false
+       
 
 <table style="width:100%">
   <tr>
@@ -92,6 +105,8 @@ All the programmatic way of implementation of TastyToast library is here.
     <td><img src="images/error.jpg" width="150"/></td>
   </tr>  
 </table>
+        
+     
 
 Position of toast can also be set by using the function POSITION as follows :
 
