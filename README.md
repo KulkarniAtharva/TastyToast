@@ -29,9 +29,50 @@ dependencies
 
 ## Usage
 
+All the programmatic way of implementation of TastyToast library is here.
 
-
-
+<table style="width:100%">
+  <tr>
+    <th>Toast</th>
+    <th>Code</th> 
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td>Normal</td>
+    <td>This flag sets design to default style to menu item of Navigation drawer.</td> 
+    <td><img src="Images/DefaultStyle.png"/></td>
+  </tr>    
+  <tr>
+    <td>Simple</td>
+    <td>This flag sets design to menu item of Navigation drawer as <b>Rounded Corners at right</b></td> 
+    <td><img src="Images/RoundRightFull.png"/></td>
+  </tr>
+  <tr>
+    <td>Success</td>
+    <td>This flag sets design to menu item of Navigation drawer as <b>Rounded Rectangular Corners</b></td> 
+    <td><img src="Images/RoundRectFull.png"/></td>
+  </tr>  
+  <tr>
+    <td>Info</td>
+    <td>This flag sets design to menu item of Navigation drawer as <b>Rounded Rectangular Corners</b></td> 
+    <td><img src="Images/RoundRectFull.png"/></td>
+  </tr>
+  <tr>
+    <td>Warning</td>
+    <td>This flag sets design to menu item of Navigation drawer as <b>Rounded Rectangular Corners</b></td> 
+    <td><img src="Images/RoundRectFull.png"/></td>
+  </tr>
+  <tr>
+    <td>Confusing</td>
+    <td>This flag sets design to menu item of Navigation drawer as <b>Rounded Rectangular Corners</b></td> 
+    <td><img src="Images/RoundRectFull.png"/></td>
+  </tr>
+  <tr>
+    <td>Error</td>
+    <td>This flag sets design to menu item of Navigation drawer as <b>Rounded Rectangular Corners</b></td> 
+    <td><img src="Images/RoundRectFull.png"/></td>
+  </tr>  
+</table>
 
 
 <a name="contributing"></a>
