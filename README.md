@@ -110,7 +110,7 @@ General syntax of TastyToast :  `TastyToast.success(context,"text",duration,shap
 
 Position of toast can also be set by using the function POSITION as follows :
 
-``` TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG,TastyToast.SHAPE_ROUND, false).setPosition(POSITION.TOP); ```
+``` TastyToast.success(this,"This is a Success Toast",TastyToast.LENGTH_LONG,TastyToast.SHAPE_ROUND,false) .setPosition(POSITION.TOP); ```
 
 ##### Different Positions
 
