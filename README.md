@@ -134,9 +134,9 @@ Any contributions, large or small, major features, bug fixes, are welcomed and a
 <a name="contact"></a>
 ### Contact - Lets become friend
 
-- [Portfolio Website](https://kulkarniatharva.github.io/)
+- [Portfolio Website](https://atharvakulkarni-iitindore.vercel.app/)
 - [Github](https://github.com/KulkarniAtharva)
-- [LinkedIn](https://www.linkedin.com/in/atharva-kulkarni-146279187/)
+- [LinkedIn](https://www.linkedin.com/in/atharvaiitian/)
 - [Facebook](https://www.facebook.com/atharva.kulkarni.96343/)
 
 
